@@ -222,5 +222,5 @@ if my work adds a lil sparkle to your day, you can fuel more of it ☕
 
 </div>
 
-<!-- last polished: 2026-04-02 ✦ keep shipping -->
+<!-- last polished: 2026-04-03 ✦ keep shipping -->
 
