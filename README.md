@@ -1,31 +1,223 @@
+<div align="center">
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/somgamer) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wizard_was_taken) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumyadeep-nayak-17095a228/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@soumyadeepnayak123) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/WizardSom) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCAkEWHH-JEoCP0kMtxz1zhg) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/wizard-boy-yt) 
+<!-- ✦ Animated header banner ✦ -->
+<a href="https://github.com/wizard-boy-yt">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=hey%20it's%20soumyadeep%20✦&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=aka%20wizard-boy-yt%20%7C%20code%20•%20design%20•%20chaos&descSize=18&descAlignY=58&descAlign=50" width="100%" />
+</a>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=wizard-boy-yt&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=wizard-boy-yt&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wizard-boy-yt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ✦ Typing animation ✦ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=800&color=C084FC&center=true&vCenter=true&multiline=false&width=720&height=70&lines=✨+Full-Stack+Dev+%7C+UI%2FUX+Designer+✨;☁️+Cloud+%7C+React+%7C+Next.js+%7C+Python;🎨+making+the+web+a+prettier+place;💜+turning+caffeine+into+code+since+day+1" />
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=wizard-boy-yt&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<!-- ✦ Visitor / profile badges ✦ -->
+<img src="https://komarev.com/ghpvc/?username=wizard-boy-yt&style=for-the-badge&color=C084FC&label=PROFILE+VIEWS" alt="profile views" />
+<img src="https://img.shields.io/github/followers/wizard-boy-yt?style=for-the-badge&color=F472B6&labelColor=1a1a2e&label=FOLLOWERS" alt="followers" />
+<img src="https://img.shields.io/badge/focus-shipping%20cool%20stuff-FDE68A?style=for-the-badge&labelColor=1a1a2e" alt="focus" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=wizard-boy-yt&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=wizard-boy-yt&icon=2&color=9)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/wizard_was_taken) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/soumyadeepnayak123) 
+<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+## 🌙 about the vibe
+
+</div>
+
+<img align="right" height="230" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+```yaml
+✦ name       : Soumyadeep Nayak
+✦ alias      : wizard-boy-yt 🧙‍♂️
+✦ role       : Full-Stack Dev & Creative Technologist
+✦ stack      : React • Next.js • Django • Three.js
+✦ learning   : Web3 • Cloud Native • Motion Design
+✦ vibes      : lofi beats + neon sunsets
+✦ open_to    : collabs, freelance, open-source
+✦ fun_fact   : I debug faster with lo-fi playing 🎧
+```
+
+- 🔭 currently cooking → **e-commerce platform w/ Django + Next.js**
+- 🌱 leveling up → **Three.js, Web3, motion graphics**
+- 💬 ask me about → **frontend magic, design systems & UX**
+- ⚡ fun quote → *"first, solve the problem. then, write the code."*
+- 📫 reach me → **[soumyadeepnayak123@gmail.com](mailto:soumyadeepnayak123@gmail.com)**
+
+<br clear="right"/>
+
+---
+
+<!-- ═══════════════════ SOCIALS ═══════════════════ -->
+
+<div align="center">
+
+## 🔗 let's connect
+
+<a href="https://linkedin.com/in/soumyadeep-nayak-17095a228/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/wizard_was_taken"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://x.com/WizardSom"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://youtube.com/@UCAkEWHH-JEoCP0kMtxz1zhg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://medium.com/@soumyadeepnayak123"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://behance.net/somgamer"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
+<a href="https://codepen.io/wizard-boy-yt"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+
+</div>
+
+---
+
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+
+<div align="center">
+
+## 🧃 my toolkit
+
+### 💻 languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,kotlin,cpp,c,php,html,css" />
+
+### ⚛️ frontend & frameworks
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,sass,threejs,nestjs,nodejs" />
+
+### 🧠 backend & databases
+
+<img src="https://skillicons.dev/icons?i=django,nodejs,nestjs,express,mongodb,mysql,postgres,firebase" />
+
+### ☁️ cloud & devops
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,docker,vercel,githubactions,gitlab" />
+
+### 🎨 design & creative
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,pr,blender" />
+
+### 🛠️ tools & platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,powershell,bash,linux,raspberrypi,windows" />
+
+</div>
+
+---
+
+<!-- ═══════════════════ STATS ═══════════════════ -->
+
+<div align="center">
+
+## 📊 the stats dont lie
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=wizard-boy-yt&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=F472B6&text_color=FDE68A&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=wizard-boy-yt&theme=radical&hide_border=true&background=0D1117&stroke=C084FC&ring=F472B6&fire=FDE68A&currStreakLabel=C084FC" />
+
+<br/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizard-boy-yt&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=FDE68A&langs_count=8" />
+
+</div>
+
+---
+
+<!-- ═══════════════════ ACTIVITY GRAPH ═══════════════════ -->
+
+<div align="center">
+
+## 🌸 contribution vibes
+
+[![Soumyadeep's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wizard-boy-yt&bg_color=0D1117&color=C084FC&line=F472B6&point=FDE68A&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<!-- ═══════════════════ TROPHIES ═══════════════════ -->
+
+<div align="center">
+
+## 🏆 trophy room
+
+<img src="https://github-profile-trophy.vercel.app/?username=wizard-boy-yt&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" />
+
+</div>
+
+---
+
+<!-- ═══════════════════ TOP REPOS ═══════════════════ -->
+
+<div align="center">
+
+## 🚀 top contributions
+
+<img src="https://github-contributor-stats.vercel.app/api?username=wizard-boy-yt&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" />
+
+</div>
+
+---
+
+<!-- ═══════════════════ SNAKE ═══════════════════ -->
+
+<div align="center">
+
+## 🐍 watch the snake eat my contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<!-- ═══════════════════ QUOTE ═══════════════════ -->
+
+<div align="center">
+
+## 💭 quote of the session
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+</div>
+
+---
+
+<!-- ═══════════════════ MEME ═══════════════════ -->
+
+<div align="center">
+
+## 😂 daily dev meme
+
+<img src="https://randommeme-five.vercel.app/" height="350" />
+
+</div>
+
+---
+
+<!-- ═══════════════════ SUPPORT ═══════════════════ -->
+
+<div align="center">
+
+## 💜 support the vibe
+
+if my work adds a lil sparkle to your day, you can fuel more of it ☕
+
+<a href="https://buymeacoffee.com/wizard_was_taken"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+<a href="https://paypal.me/soumyadeepnayak123"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
+
+</div>
+
+---
+
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer&text=thanks%20for%20scrolling%20✦&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" />
+
+**⭐ from [wizard-boy-yt](https://github.com/wizard-boy-yt) — stay weird, stay creative**
+
+</div>
